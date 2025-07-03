@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Felipe da Silva Lima, tenho 26 anos e estou cursando Engenharia da Computação, com previsão de formação em julho de 2027. Em transição de carreira, busco uma oportunidade para construir uma trajetória na área de tecnologia, que sempre foi a minha paixão.
+Me chamo Felipe da Silva Lima, tenho 26 anos e estou cursando Engenharia da Computação, com previsão de formação em julho de 2027. Em transição de carreira, busco uma oportunidade para construir uma trajetória na área de tecnologia.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
