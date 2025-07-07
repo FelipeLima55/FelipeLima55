@@ -12,13 +12,13 @@ Me chamo Felipe da Silva Lima, tenho 26 anos e estou cursando Engenharia da Comp
             src="https://custom-icon-badges.demolab.com/github/stars/FelipeLima55?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/FelipeLima55?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FelipeLima55?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <a href="https://github.com/FelipeLima55?tab=followers" target="_blank">
+  <img 
+    alt="Seguidores"
+    title="Me siga no GitHub"
+    src="https://img.shields.io/github/followers/FelipeLima55?label=Seguidores&style=for-the-badge&color=1155ba"
+  />
+</a>
 </p>
 
 ---
