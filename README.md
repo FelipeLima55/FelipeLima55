@@ -6,11 +6,11 @@ Me chamo Felipe da Silva Lima, tenho 26 anos e estou cursando Engenharia da Comp
 
 <p align="left">
     <a href="https://github.com/FelipeLima55?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/FelipeLima55?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/FelipeLima55?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&cacheBust=1" 
+    />
     </a>
     <a href="https://github.com/FelipeLima55?tab=followers" target="_blank">
   <img 
